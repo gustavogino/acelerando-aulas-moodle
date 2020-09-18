@@ -9,5 +9,7 @@ Você pode:
 - Pular para qualquer etapa do vídeo, definida em segundos.
 - Acelerar ou desacelerar o vídeo de 0.25 até 2.0x a velocidade padrão.
 
+Fonte dos comandos utilizados: https://developers.google.com/youtube/iframe_api_reference
+
 ATENÇÃO: NÃO É RECOMENDADO PULAR AS AULAS SEM ASSISTI-LAS, É DE SUMA IMPORTÂNCIA QUE VOCÊ APRENDA O CONTEÚDO, ISSO BUSCA FACILITAR NOS CASOS INFORMADOS ANTERIORMENTE.
 NÃO ME RESPONSABILIZO PELO USO DO CÓDIGO AQUI FORNECIDO E AS CONSEQUENCIAS QUE PODERÃO SER IMPOSTAS NO USO DESTE SCRIPT SÃO DE TOTAL RESPONSABILIDADE DO USUÁRIO. 
