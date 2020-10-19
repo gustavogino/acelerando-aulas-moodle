@@ -11,7 +11,7 @@ Você pode:
 
 Confira como utilizar o código no **[vídeo](https://youtu.be/jLiCCBkBfK0)**.
 <p>
-    <a href="https://youtu.be/jLiCCBkBfK0" title="Video"><img align="center" src="https://raw.githubusercontent.com/gustavogino/acelerando-videoaulas-bloqueadas/master/Video-preview.gif"></a>
+    <a href="https://youtu.be/jLiCCBkBfK0" title="Video" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/gustavogino/acelerando-videoaulas-bloqueadas/master/Video-preview.gif"></a>
 </p>
 
 Fonte dos comandos utilizados: https://developers.google.com/youtube/iframe_api_reference
