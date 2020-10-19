@@ -9,9 +9,9 @@ Você pode:
 - Pular para qualquer etapa do vídeo, definida em segundos.
 - Acelerar ou desacelerar o vídeo de 0.25 até 2.0x a velocidade padrão.
 
-Confira a explicação do código no **[vídeo](https://youtu.be/jLiCCBkBfK0)**.
+Confira como utilizar o código no **[vídeo](https://youtu.be/jLiCCBkBfK0)**.
 <p>
-    <img align="center" src="https://raw.githubusercontent.com/gustavogino/acelerando-videoaulas-bloqueadas/master/Video-preview.gif">
+    <a href="https://youtu.be/jLiCCBkBfK0" title="Video"><img align="center" src="https://raw.githubusercontent.com/gustavogino/acelerando-videoaulas-bloqueadas/master/Video-preview.gif"></a>
 </p>
 
 Fonte dos comandos utilizados: https://developers.google.com/youtube/iframe_api_reference
